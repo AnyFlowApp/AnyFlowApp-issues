@@ -9,3 +9,7 @@
 ### 反馈问题或提出建议
 
 [Issue](https://github.com/AnyFlowApp/AnyFlowApp-issues/issues)
+
+###  申请加入 TestFight 测试计划
+[申请表单](https://goo.gl/forms/ZctgIL0i6JJq2Quw2)
+ 
