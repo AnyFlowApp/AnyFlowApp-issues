@@ -14,6 +14,8 @@ AnyFlow 是一个功能强大并及其复杂的网络工具，可以做很多事
 
 [使用说明](https://github.com/AnyFlowApp/AnyFlowApp-issues/blob/master/help_Zh.md)
 
+以上文档很重要，里面描述了 AnyFlow 的规则模型以及配置项目，为了更好的使用，请务必仔细阅读。
+
 ## 可能出现问题的地方
 
 ### 1，Work Mode 设置
