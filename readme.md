@@ -6,6 +6,10 @@
 
 [使用说明](https://github.com/AnyFlowApp/AnyFlowApp-issues/blob/master/help_Zh.md)
 
+### Trouble-Shooting 
+
+[故障排查](https://github.com/AnyFlowApp/AnyFlowApp-issues/blob/master/Trouble-Shooting.md)
+
 ### 反馈问题或提出建议
 
 [Issue](https://github.com/AnyFlowApp/AnyFlowApp-issues/issues)
