@@ -94,5 +94,4 @@ Rule Group 中的 Rule 也按照从上往下的顺序进行匹配。
 
 添加规则后，可以使用 More Tab 里 Rule Test 工具来对规则进行测试，也可以通过 Analytics 功能来查看已经发生的每一个请求使用的 Policy。
 
-注: 当前版本编辑规则后，在下次启动 VPN 时才会生效
 
